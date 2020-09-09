@@ -4,7 +4,7 @@ All the tasks of this internship will be here.
 Applied through internshala.
 
 In this internship, there are 5 tasks in total.
-Out of this, the 1st task and any one of the other tasks is compulsory.
+Out of this, the 1st task and any one of the other tasks are compulsory.
 
 1. Task 1 - Create a decent Linkedin Profile and improve it as much as you. More connections will gain bonus points.
 2. Task 2 - To explore Supervised Machine Learning using Linear Regression with two variables.
