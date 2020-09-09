@@ -11,4 +11,3 @@ Out of this, the 1st task and any one of the other tasks is compulsory.
 3. Task 3 - To explore Unsupervised Machine Learning using clustering method.
 4. Task 4 - To explore Decision Tree Algorithm. Here, we create a Decision Tree Classifier of the given dataset and visualize it graphically.
 5. Task 5 - To explore Business Analytics. Here, we perform 'Exploratory Data Analysis' on the provided dataset.
-
